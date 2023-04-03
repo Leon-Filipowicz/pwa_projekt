@@ -8,9 +8,9 @@
     "start_url": "/pwa_projekt/",
     "icons": [
         {
-            "src" : "https://cdn.shopify.com/s/files/1/2040/0303/products/Cool_Retro_Vintage_Beach_City_Travel_Icon_-_Los_Angeles_537548844_1024x1024@2x.jpg?v=1518307319",
+            "src" : "123.png",
             "sizes" : "512x512",
-            "type" : "image.png"
+            "type" : "image/png"
         }
     ]
   }
