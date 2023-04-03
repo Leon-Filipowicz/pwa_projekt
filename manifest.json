@@ -1,0 +1,16 @@
+{
+    "name": "Przewodnik",
+    "theme_color": "#167d20",
+    "background_color": "#167d20",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/pwa_projekt/",
+    "icons": [
+        {
+            "src" : "https://cdn.shopify.com/s/files/1/2040/0303/products/Cool_Retro_Vintage_Beach_City_Travel_Icon_-_Los_Angeles_537548844_1024x1024@2x.jpg?v=1518307319",
+            "sizes" : "512x512",
+            "type" : "image.png"
+        }
+    ]
+  }
